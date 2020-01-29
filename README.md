@@ -5,5 +5,5 @@ This years theme is set as Smart Citys and we are creating a smart pedestrian cr
 #### How we will do it
 We are going to use python and the module `face recogition` and `cv2` to help with facial recognition and `sockets` to help with notifing the user to cross. We will also use Android Studio with the programming language Java to create the app.
 
--- [Jake](https://github.com/JakeyGilly), Declan and Charlie.
+-- [Jake](https://github.com/JakeyGilly) (Programmmer), Declan (Research) and Charlie (Marketing).
 Students @ NUAST
